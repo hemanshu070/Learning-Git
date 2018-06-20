@@ -1,0 +1,15 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 5EA1-1F44
+
+ Directory of D:\GIT
+
+06/20/2018  11:51 AM    <DIR>          .
+06/20/2018  11:51 AM    <DIR>          ..
+06/20/2018  11:49 AM    <DIR>          .git
+06/20/2018  11:10 AM               531 index.html
+06/05/2018  12:40 AM    <DIR>          Java_Practice
+04/03/2018  01:35 AM    <DIR>          Java_Test
+06/20/2018  11:08 AM                41 test1.txt
+06/20/2018  11:51 AM                 0 test2.txt
+               3 File(s)            572 bytes
+               5 Dir(s)  122,065,592,320 bytes free
